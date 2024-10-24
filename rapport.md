@@ -1,3 +1,6 @@
+
+
+
 # 1- Besoin
 L’application de gestion de magasin permet aux utilisateurs de suivre et de contrôler leur inventaire, leurs ventes et leurs commandes en temps réel. Elle simplifie la gestion des stocks grâce à une automatisation intuitive et réduit les risques de ruptures.
 
